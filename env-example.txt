@@ -1,0 +1,2 @@
+THEDINATOR_WEBHOOK_BASE=https://thedinator.com/tracker/bot/webhook/ydkpqOid/
+PORT=3000

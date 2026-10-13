@@ -1,0 +1,14 @@
+{
+  "name": "smartsender-thedinator-proxy",
+  "version": "1.0.0",
+  "description": "Receives telegramId + subscriberId from SmartSender and forwards them to TheDinator webhook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.16.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
